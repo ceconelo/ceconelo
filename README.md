@@ -17,6 +17,8 @@ Construindo com ❤️ Thiago Oliveira 👋🏽 Entre em contato!
 
 -   **[Python](https://docs.python.org/3/)**
 -   **[Scrapy](https://docs.scrapy.org/en/latest/index.html)**
+-   **[Playwright](https://playwright.dev/python/docs/intro)**
+-   **[Selenium](https://www.selenium.dev/documentation/)**
 -   **[Requests](https://docs.python-requests.org/en/latest/)**
 -   **[Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/)**
 -   **[Quantitative Finance](https://github.com/ceconelo/awesome-quant)**
