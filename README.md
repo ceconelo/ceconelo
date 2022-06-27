@@ -30,10 +30,17 @@ Construindo com ❤️ Thiago Oliveira 👋🏽 Entre em contato!
 
 ## 👀 Meus dados no Github
 
+<div align="center">
+  <a href="https://github.com/ceconelo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceconelo&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceconelo&show_icons=true&theme=tokyonight)
 [![ceconelo](https://github-readme-stats.vercel.app/api/top-langs/?username=ceconelo&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/ceconelo/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceconelo&layout=compact&theme=tokyonight)
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <!---
