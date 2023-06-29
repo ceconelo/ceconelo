@@ -11,6 +11,8 @@ Building with ❤️ Thiago Oliveira 👋🏽 Meet me!
 [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/thiagoceconelo/) 
 [![Gmail Badge](https://img.shields.io/badge/-thiceconelo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiceconelo@gmail.com)](mailto:thiceconelo@gmail.com)
 
+</em></p>
+
 <!-- <span style="height ">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurspk&show_icons=true&theme=tokyonight)
 </span> -->
@@ -23,7 +25,6 @@ Building with ❤️ Thiago Oliveira 👋🏽 Meet me!
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
 
 > 📦 138.8 kB Used in GitHub's Storage 
  > 
