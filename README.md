@@ -1,41 +1,25 @@
-<h4 align="center"> 
-	🚧  Em construção 👀🚀...  🚧
-</h4>
-
-
-Oie, 👋 tudo bem?
-Estou começando a usar este ambiente como um meio de compartilhar minhas idéias e projetos que venho trabalhando.
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Innovate, persevere, take a break and repeat! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Senior Software Developer at <a href="https://www.cditec.com.br/">Cditec
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
 
 
-Construindo com ❤️ Thiago Oliveira 👋🏽 Entre em contato!
+Building with ❤️ Thiago Oliveira 👋🏽 Meet me!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/thiagoceconelo/) 
 [![Gmail Badge](https://img.shields.io/badge/-thiceconelo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiceconelo@gmail.com)](mailto:thiceconelo@gmail.com)
-
-## 🛠 Assuntos de Interesse
-
--   **[Python](https://docs.python.org/3/)**
--   **[Scrapy](https://docs.scrapy.org/en/latest/index.html)**
--   **[Playwright](https://playwright.dev/python/docs/intro)**
--   **[Selenium](https://www.selenium.dev/documentation/)**
--   **[Requests](https://docs.python-requests.org/en/latest/)**
--   **[Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/)**
--   **[Quantitative Finance](https://github.com/ceconelo/awesome-quant)**
--   **[Data Mining](#)**
 
 <!-- <span style="height ">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurspk&show_icons=true&theme=tokyonight)
 </span> -->
 
-## 👀 Meus dados no Github
+**🐱 My GitHub Data** 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceconelo&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceconelo&layout=compact&theme=tokyonight)
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
 
 
 <!---
