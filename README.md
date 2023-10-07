@@ -19,7 +19,7 @@ Building with ❤️ Thiago Oliveira 👋🏽 Meet me!
 
 **🐱 My GitHub Data** 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-688%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-692%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -29,11 +29,11 @@ Building with ❤️ Thiago Oliveira 👋🏽 Meet me!
 
 > 📦 202.5 kB Used in GitHub's Storage 
  > 
-> 🏆 816 Contributions in the Year 2023
+> 🏆 817 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 40 Public Repositories 
+> 📜 41 Public Repositories 
  > 
 > 🔑 36 Private Repositories 
  > 
@@ -64,17 +64,17 @@ Sunday                   259 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   31 hrs 40 mins      ██████████████████░░░░░░░   72.65 % 
-JavaScript               3 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-JSON                     1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-HTML                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-YAML                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Python                   33 hrs 58 mins      ██████████████████░░░░░░░   72.65 % 
+JavaScript               3 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+HTML                     2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+JSON                     1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+YAML                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 
 🔥 Editors: 
-PyCharm                  43 hrs 35 mins      █████████████████████████   100.00 % 
+PyCharm                  46 hrs 46 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    43 hrs 35 mins      █████████████████████████   100.00 % 
+Linux                    46 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -90,7 +90,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2023 01:08:58 UTC
+ Last Updated on 07/10/2023 01:07:59 UTC
 <!--END_SECTION:waka-->
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
