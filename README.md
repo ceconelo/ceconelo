@@ -19,7 +19,7 @@ Building with ❤️ Thiago Oliveira 👋🏽 Meet me!
 
 **🐱 My GitHub Data** 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C358%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C359%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -29,7 +29,7 @@ Building with ❤️ Thiago Oliveira 👋🏽 Meet me!
 
 > 📦 365.0 kB Used in GitHub's Storage 
  > 
-> 🏆 306 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,17 +64,17 @@ Sunday                   334 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   6 hrs 40 mins       ██████████████████░░░░░░░   71.80 % 
-JSON                     1 hr 44 mins        █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-Log                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-Text                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Python                   6 hrs 45 mins       ███████████████████░░░░░░   74.42 % 
+JSON                     1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Log                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Text                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+GitIgnore file           7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 
 🔥 Editors: 
-PyCharm                  9 hrs 18 mins       █████████████████████████   100.00 % 
+PyCharm                  9 hrs 4 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    9 hrs 18 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -90,7 +90,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/05/2024 01:13:04 UTC
+ Last Updated on 11/05/2024 01:12:09 UTC
 <!--END_SECTION:waka-->
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
