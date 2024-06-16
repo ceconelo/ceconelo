@@ -19,8 +19,6 @@ Building with ❤️ Thiago Oliveira 👋🏽 Meet me!
 
 **🐱 My GitHub Data** 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C409%20hrs%208%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.9%20million%20lines%20of%20code-blue)
@@ -28,8 +26,6 @@ Building with ❤️ Thiago Oliveira 👋🏽 Meet me!
 **🐱 My GitHub Data** 
 
 > 📦 369.5 kB Used in GitHub's Storage 
- > 
-> 🏆 348 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,19 +60,19 @@ Sunday                   342 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   5 hrs 3 mins        █████████████░░░░░░░░░░░░   52.98 % 
-JavaScript               1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-TypeScript               1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-JSON                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-GitIgnore file           17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Python                   4 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   34.09 % 
+TypeScript               3 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   26.27 % 
+JSON                     1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+JavaScript               1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Markdown                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 
 🔥 Editors: 
-PyCharm                  5 hrs 56 mins       ████████████████░░░░░░░░░   62.26 % 
-Intellijidea             2 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
-IntelliJ                 1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+PyCharm                  5 hrs 27 mins       ███████████░░░░░░░░░░░░░░   45.36 % 
+Intellijidea             5 hrs 19 mins       ███████████░░░░░░░░░░░░░░   44.31 % 
+IntelliJ                 1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
 
 💻 Operating System: 
-Linux                    9 hrs 33 mins       █████████████████████████   100.00 % 
+Linux                    12 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -92,7 +88,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/06/2024 01:16:58 UTC
+ Last Updated on 16/06/2024 01:22:13 UTC
 <!--END_SECTION:waka-->
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
