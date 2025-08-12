@@ -19,7 +19,7 @@ Building with ❤️ Thiago Oliveira 👋🏽 Meet me!
 
 **🐱 My GitHub Data** 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C532%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C535%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -27,7 +27,9 @@ Building with ❤️ Thiago Oliveira 👋🏽 Meet me!
 
 **🐱 My GitHub Data** 
 
-> 📦 383.8 kB Used in GitHub's Storage 
+> 📦 383.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 812 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,7 +92,7 @@ HTML                     6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2025 00:35:57 UTC
+ Last Updated on 12/08/2025 00:31:45 UTC
 <!--END_SECTION:waka-->
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
