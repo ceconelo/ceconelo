@@ -19,7 +19,9 @@ Building with ❤️ Thiago Oliveira 👋🏽 Meet me!
 
 **🐱 My GitHub Data** 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C593%20hrs%209%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.5%20million%20lines%20of%20code-blue)
 
@@ -27,7 +29,7 @@ Building with ❤️ Thiago Oliveira 👋🏽 Meet me!
 
 > 📦 384.5 kB Used in GitHub's Storage 
  > 
-> 🏆 812 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,20 +40,20 @@ Building with ❤️ Thiago Oliveira 👋🏽 Meet me!
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1704 commits        ███████░░░░░░░░░░░░░░░░░░   28.93 % 
-🌆 Daytime                2371 commits        ██████████░░░░░░░░░░░░░░░   40.25 % 
-🌃 Evening                1317 commits        ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
+🌞 Morning                1704 commits        ███████░░░░░░░░░░░░░░░░░░   28.92 % 
+🌆 Daytime                2373 commits        ██████████░░░░░░░░░░░░░░░   40.27 % 
+🌃 Evening                1317 commits        ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
 🌙 Night                  499 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   947 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+Monday                   949 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
 Tuesday                  954 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-Wednesday                788 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Thursday                 903 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-Friday                   976 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
-Saturday                 666 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Wednesday                788 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Thursday                 903 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+Friday                   976 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+Saturday                 666 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
 Sunday                   657 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
 ```
 
@@ -91,7 +93,7 @@ HTML                     6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2025 13:44:29 UTC
+ Last Updated on 26/08/2025 00:30:42 UTC
 <!--END_SECTION:waka-->
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
