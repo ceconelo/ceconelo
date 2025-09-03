@@ -19,17 +19,15 @@ Building with ❤️ Thiago Oliveira 👋🏽 Meet me!
 
 **🐱 My GitHub Data** 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C608%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C617%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 384.7 kB Used in GitHub's Storage 
- > 
-> 🏆 838 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -92,7 +90,7 @@ HTML                     6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/09/2025 10:40:05 UTC
+ Last Updated on 03/09/2025 00:28:34 UTC
 <!--END_SECTION:waka-->
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
