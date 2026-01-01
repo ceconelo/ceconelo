@@ -19,7 +19,7 @@ Building with ❤️ Thiago Oliveira 👋🏽 Meet me!
 
 **🐱 My GitHub Data** 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C082%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C083%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -29,7 +29,7 @@ Building with ❤️ Thiago Oliveira 👋🏽 Meet me!
 
 > 📦 388.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,203 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,18 +64,18 @@ Sunday                   789 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    21 hrs 24 mins      ██████████████████████░░░   86.46 % 
-Python                   2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-Markdown                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-TypeScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Other                    17 hrs 11 mins      █████████████████████░░░░   85.79 % 
+Python                   1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+Markdown                 56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+TypeScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Chrome                   24 hrs 17 mins      █████████████████████████   98.07 % 
-VS Code                  28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Chrome                   19 hrs 33 mins      ████████████████████████░   97.64 % 
+VS Code                  28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 
 💻 Operating System: 
-Linux                    24 hrs 45 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -91,7 +91,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2025 00:34:52 UTC
+ Last Updated on 01/01/2026 00:38:38 UTC
 <!--END_SECTION:waka-->
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
