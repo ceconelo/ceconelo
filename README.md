@@ -19,42 +19,42 @@ Building with ❤️ Thiago Oliveira 👋🏽 Meet me!
 
 **🐱 My GitHub Data** 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C795%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C792%20hrs%2034%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.32%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.35%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 393.0 kB Used in GitHub's Storage 
+> 📦 393.2 kB Used in GitHub's Storage 
  > 
-> 🏆 916 Contributions in the Year 2026
+> 🏆 963 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 63 Public Repositories 
  > 
-> 🔑 69 Private Repositories 
+> 🔑 70 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2469 commits        ███████░░░░░░░░░░░░░░░░░░   29.07 % 
-🌆 Daytime                3389 commits        ██████████░░░░░░░░░░░░░░░   39.90 % 
-🌃 Evening                1945 commits        ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
-🌙 Night                  690 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+🌞 Morning                2477 commits        ███████░░░░░░░░░░░░░░░░░░   29.01 % 
+🌆 Daytime                3405 commits        ██████████░░░░░░░░░░░░░░░   39.88 % 
+🌃 Evening                1967 commits        ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
+🌙 Night                  690 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   1340 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Tuesday                  1265 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Wednesday                1098 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-Thursday                 1384 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-Friday                   1403 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-Saturday                 997 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Sunday                   1006 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Monday                   1352 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+Tuesday                  1293 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Wednesday                1098 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Thursday                 1384 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+Friday                   1403 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Saturday                 997 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Sunday                   1012 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
 ```
 
 
@@ -64,30 +64,30 @@ Sunday                   1006 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    29 hrs 11 mins      █████████████████████████   99.58 % 
+Other                    29 hrs 19 mins      █████████████████████████   99.58 % 
 JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 🔥 Editors: 
-Chrome                   29 hrs 18 mins      █████████████████████████   100.00 % 
+Chrome                   29 hrs 27 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      29 hrs 18 mins      █████████████████████████   100.00 % 
+Mac                      29 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   55 repos            ███████████░░░░░░░░░░░░░░   44.72 % 
-Shell                    17 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-TypeScript               16 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-JavaScript               13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Python                   56 repos            ███████████░░░░░░░░░░░░░░   45.16 % 
+Shell                    17 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+TypeScript               16 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+JavaScript               13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
 Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 ```
 
 
 
 
- Last Updated on 14/07/2026 02:48:51 UTC
+ Last Updated on 15/07/2026 02:47:58 UTC
 <!--END_SECTION:waka-->
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
