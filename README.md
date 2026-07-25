@@ -19,17 +19,15 @@ Building with ❤️ Thiago Oliveira 👋🏽 Meet me!
 
 **🐱 My GitHub Data** 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C840%20hrs%2026%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.40%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 393.9 kB Used in GitHub's Storage 
+> 📦 394.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,066 Contributions in the Year 2026
+> 🏆 1,071 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,21 +38,21 @@ Building with ❤️ Thiago Oliveira 👋🏽 Meet me!
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2531 commits        ███████░░░░░░░░░░░░░░░░░░   29.17 % 
-🌆 Daytime                3476 commits        ██████████░░░░░░░░░░░░░░░   40.06 % 
-🌃 Evening                1979 commits        ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
+🌞 Morning                2533 commits        ███████░░░░░░░░░░░░░░░░░░   29.18 % 
+🌆 Daytime                3480 commits        ██████████░░░░░░░░░░░░░░░   40.08 % 
+🌃 Evening                1979 commits        ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
 🌙 Night                  690 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   1365 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Tuesday                  1315 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-Wednesday                1128 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-Thursday                 1415 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Friday                   1434 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Saturday                 1002 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-Sunday                   1017 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Monday                   1365 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+Tuesday                  1315 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Wednesday                1128 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+Thursday                 1415 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+Friday                   1440 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+Saturday                 1002 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Sunday                   1017 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
 ```
 
 
@@ -64,14 +62,14 @@ Sunday                   1017 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    30 hrs 4 mins       █████████████████████████   98.74 % 
-JSON                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+Other                    29 hrs 37 mins      ████████████████████████░   94.83 % 
+JSON                     1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
 
 🔥 Editors: 
-Chrome                   30 hrs 27 mins      █████████████████████████   100.00 % 
+Chrome                   31 hrs 14 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      30 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      31 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -87,7 +85,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 02:58:03 UTC
+ Last Updated on 25/07/2026 02:58:20 UTC
 <!--END_SECTION:waka-->
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
