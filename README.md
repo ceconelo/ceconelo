@@ -29,9 +29,9 @@ Building with ❤️ Thiago Oliveira 👋🏽 Meet me!
 
 **🐱 My GitHub Data** 
 
-> 📦 396.1 kB Used in GitHub's Storage 
+> 📦 396.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1,342 Contributions in the Year 2026
+> 🏆 1,346 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,20 +42,20 @@ Building with ❤️ Thiago Oliveira 👋🏽 Meet me!
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2624 commits        ███████░░░░░░░░░░░░░░░░░░   29.29 % 
-🌆 Daytime                3587 commits        ██████████░░░░░░░░░░░░░░░   40.04 % 
-🌃 Evening                2049 commits        ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
+🌞 Morning                2626 commits        ███████░░░░░░░░░░░░░░░░░░   29.30 % 
+🌆 Daytime                3589 commits        ██████████░░░░░░░░░░░░░░░   40.05 % 
+🌃 Evening                2049 commits        ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
 🌙 Night                  698 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   1416 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-Tuesday                  1389 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Wednesday                1159 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Thursday                 1454 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-Friday                   1461 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Saturday                 1037 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Monday                   1416 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+Tuesday                  1389 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Wednesday                1163 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+Thursday                 1454 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Friday                   1461 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+Saturday                 1037 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
 Sunday                   1042 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
 ```
 
@@ -66,14 +66,14 @@ Sunday                   1042 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    23 hrs 50 mins      █████████████████████████   98.39 % 
-JSON                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Other                    24 hrs 14 mins      █████████████████████████   98.60 % 
+JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 🔥 Editors: 
-Chrome                   24 hrs 13 mins      █████████████████████████   100.00 % 
+Chrome                   24 hrs 35 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      24 hrs 13 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -95,7 +95,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/09/2026 03:43:40 UTC
+ Last Updated on 03/09/2026 03:43:55 UTC
 <!--END_SECTION:waka-->
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
