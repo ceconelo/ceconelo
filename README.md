@@ -19,19 +19,19 @@ Building with ❤️ Thiago Oliveira 👋🏽 Meet me!
 
 **🐱 My GitHub Data** 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C980%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C980%20hrs%2019%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%204%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.59%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.60%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 398.2 kB Used in GitHub's Storage 
+> 📦 398.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,438 Contributions in the Year 2026
+> 🏆 1,447 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,21 +42,21 @@ Building with ❤️ Thiago Oliveira 👋🏽 Meet me!
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2642 commits        ███████░░░░░░░░░░░░░░░░░░   29.17 % 
-🌆 Daytime                3633 commits        ██████████░░░░░░░░░░░░░░░   40.11 % 
-🌃 Evening                2084 commits        ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
-🌙 Night                  698 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+🌞 Morning                2648 commits        ███████░░░░░░░░░░░░░░░░░░   29.20 % 
+🌆 Daytime                3637 commits        ██████████░░░░░░░░░░░░░░░   40.11 % 
+🌃 Evening                2084 commits        ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
+🌙 Night                  698 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   1423 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Tuesday                  1410 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Wednesday                1164 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-Thursday                 1471 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-Friday                   1465 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-Saturday                 1042 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-Sunday                   1082 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Monday                   1423 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Tuesday                  1410 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Wednesday                1164 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Thursday                 1472 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+Friday                   1474 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Saturday                 1042 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Sunday                   1082 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
 ```
 
 
@@ -66,14 +66,14 @@ Sunday                   1082 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    31 hrs 53 mins      ████████████████████████░   96.66 % 
-JSON                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+Other                    30 hrs 15 mins      ████████████████████████░   96.45 % 
+JSON                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 
 🔥 Editors: 
-Chrome                   32 hrs 59 mins      █████████████████████████   100.00 % 
+Chrome                   31 hrs 22 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      32 hrs 59 mins      █████████████████████████   100.00 % 
+Mac                      31 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -95,7 +95,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2026 04:12:21 UTC
+ Last Updated on 26/09/2026 04:16:21 UTC
 <!--END_SECTION:waka-->
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
