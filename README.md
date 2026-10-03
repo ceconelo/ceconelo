@@ -19,19 +19,19 @@ Building with ❤️ Thiago Oliveira 👋🏽 Meet me!
 
 **🐱 My GitHub Data** 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C980%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C980%20hrs%2050%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%204%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.63%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.64%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 398.5 kB Used in GitHub's Storage 
+> 📦 398.8 kB Used in GitHub's Storage 
  > 
-> 🏆 1,478 Contributions in the Year 2026
+> 🏆 1,486 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,21 +42,21 @@ Building with ❤️ Thiago Oliveira 👋🏽 Meet me!
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2665 commits        ███████░░░░░░░░░░░░░░░░░░   29.30 % 
-🌆 Daytime                3645 commits        ██████████░░░░░░░░░░░░░░░   40.07 % 
-🌃 Evening                2089 commits        ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
+🌞 Morning                2668 commits        ███████░░░░░░░░░░░░░░░░░░   29.31 % 
+🌆 Daytime                3648 commits        ██████████░░░░░░░░░░░░░░░   40.07 % 
+🌃 Evening                2089 commits        ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
 🌙 Night                  698 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   1434 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
-Tuesday                  1414 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Wednesday                1169 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-Thursday                 1476 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-Friday                   1474 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-Saturday                 1045 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Sunday                   1085 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+Monday                   1434 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Tuesday                  1414 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Wednesday                1169 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Thursday                 1476 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+Friday                   1480 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Saturday                 1045 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Sunday                   1085 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
 ```
 
 
@@ -66,14 +66,14 @@ Sunday                   1085 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    24 hrs 52 mins      ████████████████████████░   97.99 % 
-JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Other                    27 hrs 23 mins      █████████████████████████   98.16 % 
+JSON                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 
 🔥 Editors: 
-Chrome                   25 hrs 23 mins      █████████████████████████   100.00 % 
+Chrome                   27 hrs 54 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      25 hrs 23 mins      █████████████████████████   100.00 % 
+Mac                      27 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -95,7 +95,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2026 04:51:58 UTC
+ Last Updated on 03/10/2026 04:34:15 UTC
 <!--END_SECTION:waka-->
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
