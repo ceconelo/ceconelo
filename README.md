@@ -23,7 +23,7 @@ Building with ❤️ Thiago Oliveira 👋🏽 Meet me!
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%204%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.69%20million%20lines%20of%20code-blue?style=flat)
 
@@ -66,13 +66,14 @@ Sunday                   1089 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    21 hrs 15 mins      █████████████████████████   100.00 % 
+Other                    18 hrs 24 mins      █████████████████████████   99.98 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Chrome                   21 hrs 15 mins      █████████████████████████   100.00 % 
+Chrome                   18 hrs 25 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      21 hrs 15 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -94,7 +95,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2026 03:41:19 UTC
+ Last Updated on 18/10/2026 03:47:18 UTC
 <!--END_SECTION:waka-->
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
