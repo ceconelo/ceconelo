@@ -19,11 +19,11 @@ Building with ❤️ Thiago Oliveira 👋🏽 Meet me!
 
 **🐱 My GitHub Data** 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C982%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C982%20hrs%2039%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%204%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.85%20million%20lines%20of%20code-blue?style=flat)
 
@@ -66,14 +66,14 @@ Sunday                   1113 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    25 hrs 27 mins      █████████████████████████   98.92 % 
-JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Other                    22 hrs 28 mins      █████████████████████████   99.20 % 
+JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 🔥 Editors: 
-Chrome                   25 hrs 44 mins      █████████████████████████   100.00 % 
+Chrome                   22 hrs 38 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      25 hrs 44 mins      █████████████████████████   100.00 % 
+Mac                      22 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -95,7 +95,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2026 04:49:22 UTC
+ Last Updated on 01/11/2026 05:10:16 UTC
 <!--END_SECTION:waka-->
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
