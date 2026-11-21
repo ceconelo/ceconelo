@@ -66,14 +66,14 @@ Sunday                   1150 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    20 hrs 47 mins      █████████████████████████   98.36 % 
-JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Other                    16 hrs 39 mins      ████████████████████████░   97.96 % 
+JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 
 🔥 Editors: 
-Chrome                   21 hrs 8 mins       █████████████████████████   100.00 % 
+Chrome                   17 hrs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      21 hrs 8 mins       █████████████████████████   100.00 % 
+Mac                      17 hrs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -95,7 +95,7 @@ Ruby                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/11/2026 06:28:55 UTC
+ Last Updated on 21/11/2026 06:18:44 UTC
 <!--END_SECTION:waka-->
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
